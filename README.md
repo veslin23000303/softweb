@@ -28,11 +28,12 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
-``` NAME:VESLIN ANISH A
-    REGISTER NO: 212223240175
+```
+NAME:VESLIN ANISH A
+REGISTER NO: 212223240175
 ```
 ```
-[09-05-2024 15:08] : home.html
+ home.html
 
 <!DOCTYPE html>
 <html lang="en">
